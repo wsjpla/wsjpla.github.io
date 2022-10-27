@@ -53,7 +53,7 @@ My research interest includes SLAM, sensor fusion, etc.
 # 📖 Educations
 - *2022.09 - 2025.06*,  Master of Science,   Southern University of Science and Technology (SUSTech)
 - *2018.09 - 2022.06*,  Bachelor of Science,   Southern University of Science and Technology (SUSTech)
-- *2015.09 - 2018.06*,  No.4 High School of Xiangyang
+- *2015.09 - 2018.06*,  Xiangyang No.4 High School
 
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
