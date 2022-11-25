@@ -39,10 +39,34 @@ My research interest includes SLAM, sensor fusion, etc.
 
 **Zirui Wang**, Haiou Liao, Zhenzhong Jia, Jing Wu
 
-**Project**<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+**Project**
 - This work proposed a semantic mapping framework based on [ORB-SLAM2](https://github.com/raulmur/ORB_SLAM2) for cleaning robots in indoor scenes.
 </div>
 </div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICMRE 2023</div><img src='images/ICMRE.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Automation Extrinsic Calibration for Lidar-Photoneo in Structured Environment](https://arxiv.org/)
+
+Yangtao Ge, Chen Yao, **Zirui Wang**, Haoran Kang, Wentao Zhang, and Jing Wu
+
+**Project**
+- This paper demonstrated an extrinsic calibration method for high-precision structured light camera and 3D lidar.
+</div>
+</div>
+
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ROBIO 2022</div><img src='images/ICMRE.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Automation Extrinsic Calibration for Lidar-Photoneo in Structured Environment](https://arxiv.org/)
+
+Yangtao Ge, Chen Yao, **Zirui Wang**, Haoran Kang, Wentao Zhang, and Jing Wu
+
+**Project**<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- This work proposed a semantic mapping framework based on [ORB-SLAM2](https://github.com/raulmur/ORB_SLAM2) for cleaning robots in indoor scenes.
+</div>
+</div> -->
 
 <!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **ROBIO 2022** -->
 
