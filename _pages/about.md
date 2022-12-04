@@ -39,7 +39,7 @@ My research interest includes SLAM, sensor fusion, etc.
 
 **Zirui Wang**, Haiou Liao, Zhenzhong Jia, Jing Wu
 
-**Project**
+<!-- **Project** -->
 - This work proposed a semantic mapping framework based on [ORB-SLAM2](https://github.com/raulmur/ORB_SLAM2) for cleaning robots in indoor scenes.
 </div>
 </div>
@@ -51,7 +51,7 @@ My research interest includes SLAM, sensor fusion, etc.
 
 Yangtao Ge, Chen Yao, **Zirui Wang**, Haoran Kang, Wentao Zhang, and Jing Wu
 
-**Project**
+<!-- **Project** -->
 - This paper demonstrated an extrinsic calibration method for high-precision structured light camera and 3D lidar.
 </div>
 </div>
@@ -75,8 +75,10 @@ Yangtao Ge, Chen Yao, **Zirui Wang**, Haoran Kang, Wentao Zhang, and Jing Wu
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 # 📖 Educations
-- *2022.09 - 2025.06*,  Master of Science,   Southern University of Science and Technology (SUSTech)
-- *2018.09 - 2022.06*,  Bachelor of Science,   Southern University of Science and Technology (SUSTech)
+- *2022.09 - 2025.06*,  Master of Science,  Southern University of Science and Technology
+- *2018.09 - 2022.06*,  Bachelor of Science,   Southern University of Science and Technology
+  
+  <!-- Cumulative GPA: 3.72/4.00,  Rank: 6/72 -->
 - *2015.09 - 2018.06*,  Xiangyang No.4 High School
 
 <!-- # 💬 Invited Talks
@@ -85,7 +87,11 @@ Yangtao Ge, Chen Yao, **Zirui Wang**, Haoran Kang, Wentao Zhang, and Jing Wu
 
 # 💻 Experience
 - *2022*, SLAM-ralated Research Project supported by Shenzhen Silver Star Co. Ltd
+
+  - Research topic: semantic SLAM, autonomous navigation
 - *2021*, Rapidamic-SUSTech Undergrad Engineer Research and Innovation Summer School
+
+  - Research topic: gesture control based on sEMG
 - *2020*, CI-LAM Summer School (remote)
 - *2019*, RoboMaster University Championship
 
@@ -94,4 +100,4 @@ Yangtao Ge, Chen Yao, **Zirui Wang**, Haoran Kang, Wentao Zhang, and Jing Wu
 - Recently played games: CSGO, Apex, Rainbow Six: Siege, Genshin Impact, Battlefield 2042 ...
 - Sports interest: 🏸 badminton, 🧗‍♂️ rock climbing ...
 - [1.pdf](images/1.pdf)
-- [2.pdf](images/2.pdf)
+- [33.pdf](images/2.pdf)
