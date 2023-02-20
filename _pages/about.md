@@ -21,7 +21,7 @@ redirect_from:
 
 Hi there 👋, I am Zirui Wang (王子瑞).
 
-I graduated from the Department of Mechanical and Energy Engineering (MEE), Southern University of Science and Technology ([SUSTech](https://www.sustech.edu.cn/en/)) with a bachelor's degree.
+I graduated from the Department of Mechanical and Energy Engineering ([MEE](https://mee.sustech.edu.cn/en/)), Southern University of Science and Technology ([SUSTech](https://www.sustech.edu.cn/en/)) with a bachelor's degree.
 I am currently studying for a master's degree in **robotic engineering** at SUSTech. 
 My research interest includes SLAM, sensor fusion, etc.
 
@@ -35,7 +35,7 @@ My research interest includes SLAM, sensor fusion, etc.
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ROBIO 2022</div><img src='images/robio2022.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Semantic Mapping based on Visual SLAM with Object Model Replacement Visualization for Cleaning Robot](https://arxiv.org/)
+[Semantic Mapping based on Visual SLAM with Object Model Replacement Visualization for Cleaning Robot](https://ieeexplore.ieee.org/document/10011717/)
 
 **Zirui Wang**, Haiou Liao, Zhenzhong Jia, Jing Wu
 
@@ -52,7 +52,7 @@ My research interest includes SLAM, sensor fusion, etc.
 Yangtao Ge, Chen Yao, **Zirui Wang**, Haoran Kang, Wentao Zhang, and Jing Wu
 
 <!-- **Project** -->
-- This paper demonstrated an extrinsic calibration method for high-precision structured light camera and 3D lidar.
+- In this paper, we propose a novel method for extrinsic parameters calibration between structured light camera and 3D lidar.
 </div>
 </div>
 
@@ -92,7 +92,7 @@ Yangtao Ge, Chen Yao, **Zirui Wang**, Haoran Kang, Wentao Zhang, and Jing Wu
 - *2021*, Rapidamic-SUSTech Undergrad Engineer Research and Innovation Summer School
 
   - Research topic: gesture control based on sEMG
-- *2020*, CI-LAM Summer School (remote)
+- *2020*, CI-LAM(China-Italy Laboratory on Advanced Manufacturing) Summer School (remote)
 - *2019*, RoboMaster University Championship
 
 # 🎮 Others
