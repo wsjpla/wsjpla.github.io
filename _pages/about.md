@@ -47,7 +47,7 @@ My research interest includes SLAM, sensor fusion, etc.
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICMRE 2023</div><img src='images/ICMRE.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Automation Extrinsic Calibration for Lidar-Photoneo in Structured Environment](https://arxiv.org/)
+[Automatic Extrinsic Calibration for Lidar-Photoneo Camera Using a Hemispherical Calibration Board](https://ieeexplore.ieee.org/document/10106574/)
 
 Yangtao Ge, Chen Yao, **Zirui Wang**, Haoran Kang, Wentao Zhang, and Jing Wu
 
@@ -68,7 +68,7 @@ Yangtao Ge, Chen Yao, **Zirui Wang**, Haoran Kang, Wentao Zhang, and Jing Wu
 </div>
 </div> -->
 
-<!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **ROBIO 2022** -->
+   [Development of BIM Semantic Robot Autonomous Inspection and Simulation System](https://ieeexplore.ieee.org/document/10106602/), Bangzhen Huang, Haiou Liao, Yangtao Ge, Wentao Zhang, Haoran Kang, **Zirui Wang**, Jing Wu, **ICMRE 2023**
 
 <!-- # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
