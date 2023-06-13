@@ -68,11 +68,15 @@ Yangtao Ge, Chen Yao, **Zirui Wang**, Haoran Kang, Wentao Zhang, and Jing Wu
 </div>
 </div> -->
 
-   [Development of BIM Semantic Robot Autonomous Inspection and Simulation System](https://ieeexplore.ieee.org/document/10106602/), Bangzhen Huang, Haiou Liao, Yangtao Ge, Wentao Zhang, Haoran Kang, **Zirui Wang**, Jing Wu, **ICMRE 2023**
+
+[Development of BIM Semantic Robot Autonomous Inspection and Simulation System](https://ieeexplore.ieee.org/document/10106602/), Bangzhen Huang, Haiou Liao, Yangtao Ge, Wentao Zhang, Haoran Kang, **Zirui Wang**, Jing Wu, **ICMRE 2023**
 
 <!-- # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
+
+# 🏢 Teaching
+- *2023 Spring*, MEE5115 Autonomous Robotic Systems, Teaching Assistant
 
 # 📖 Educations
 - *2022.09 - 2025.06*,  Master of Science,  Southern University of Science and Technology
