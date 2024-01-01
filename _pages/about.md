@@ -37,7 +37,8 @@ My research interest includes SLAM, sensor fusion, etc.
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"> </div><img src='images/tail.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[TAIL: A Terrain-Aware Multi-Modal SLAM Dataset for Robot Locomotion in Deformable Granular Environments](about:blank), **Under review**
+[TAIL: A Terrain-Aware Multi-Modal SLAM Dataset for Robot Locomotion in Deformable Granular Environments](about:blank), Submitted
+to IEEE Robotics and Automation Letters (RAL) - **Under review**
 
 Chen Yao\*, Yangtao Ge\*, Guowei Shi\*, **Zirui Wang**\*, Ningbo Yang, Zheng Zhu,Hexiang Wei, Yuntian Zhao, Jing Wu, Zhenzhong Jia
 
@@ -67,7 +68,7 @@ deformable granular scenes.
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ROBIO 2022</div><img src='images/robio2022.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Semantic Mapping based on Visual SLAM with Object Model Replacement Visualization for Cleaning Robot](https://ieeexplore.ieee.org/document/10011717/)
+[Semantic Mapping based on Visual SLAM with Object Model Replacement Visualization for Cleaning Robot](https://ieeexplore.ieee.org/document/10011717/), **ROBIO 2022**
 
 **Zirui Wang**, Haiou Liao, Zhenzhong Jia, Jing Wu
 
@@ -89,7 +90,6 @@ Yangtao Ge, Chen Yao, **Zirui Wang**, Haoran Kang, Wentao Zhang, and Jing Wu
 </div>
 </div> -->
 
-<!-- [Semantic Mapping based on Visual SLAM with Object Model Replacement Visualization for Cleaning Robot](https://ieeexplore.ieee.org/document/10011717/), **Zirui Wang**, Haiou Liao, Zhenzhong Jia, Jing Wu, **ROBIO 2023** -->
 
 [Automatic Extrinsic Calibration for Structured Light Camera and Repetive LiDARs](about:blank), Yangtao Ge, Chen Yao, **Zirui Wang**, Haoran Kang, Wentao Zhang and Jing Wu, **ROBOTICA 2024**
 
@@ -102,7 +102,7 @@ Yangtao Ge, Chen Yao, **Zirui Wang**, Haoran Kang, Wentao Zhang, and Jing Wu
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 # 🏢 Teaching
-- *2023 Spring*, MEE5115 Autonomous Robotic Systems, Teaching Assistant
+- *2023 Spring*, ME5115 Autonomous Robotic Systems, Teaching Assistant
 
 # 📖 Educations
 - *2022.09 - 2025.06*,  Master of Science,  Southern University of Science and Technology
@@ -116,11 +116,9 @@ Yangtao Ge, Chen Yao, **Zirui Wang**, Haoran Kang, Wentao Zhang, and Jing Wu
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
 # 💻 Experience
-- *2022*, SLAM-ralated Research Project supported by Shenzhen Silver Star Co. Ltd
-
+- *2022*, SLAM-ralated Research Project supported by Shenzhen Silver Star Co. Ltd  
   - Research topic: semantic SLAM, autonomous navigation
-- *2021*, Rapidamic-SUSTech Undergrad Engineer Research and Innovation Summer School
-
+- *2021*, Rapidamic-SUSTech Undergrad Engineer Research and Innovation Summer School  
   - Research topic: gesture control based on sEMG
 - *2020*, CI-LAM(China-Italy Laboratory on Advanced Manufacturing) Summer School (remote)
 - *2019*, RoboMaster University Championship
