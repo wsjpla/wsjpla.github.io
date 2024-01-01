@@ -30,7 +30,39 @@ My research interest includes SLAM, sensor fusion, etc.
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
-# 📝 Publications 
+# 📝 Publications (*equal contribution)
+
+<!-- TAIL -->
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"> </div><img src='images/tail.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[TAIL: A Terrain-Aware Multi-Modal SLAM Dataset for Robot Locomotion in Deformable Granular Environments](about:blank), **Under review**
+
+Chen Yao\*, Yangtao Ge\*, Guowei Shi\*, **Zirui Wang**\*, Ningbo Yang, Zheng Zhu,Hexiang Wei, Yuntian Zhao, Jing Wu, Zhenzhong Jia
+
+<!-- **Project** -->
+- This paper presents TAIL, a novel terrain-aware multi-modal dataset targeting the development of SLAM algorithms using both wheeled and legged robots traveling over
+deformable granular scenes.
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"> </div><img src='images/pl-loop.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+<!-- PL-LOOP -->
+
+[Robust Appearance-based Loop Closure Detection with Point and Line Features](about:blank), **Under review**
+
+**Zirui Wang**, Wujie Shi and Jing Wu
+
+<!-- **Project** -->
+- In this paper, we propose an appearance-based loop closure detection method utilizing both point and line features.
+</div>
+</div>
+
+<!-- ROBIO -->
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ROBIO 2022</div><img src='images/robio2022.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -40,9 +72,10 @@ My research interest includes SLAM, sensor fusion, etc.
 **Zirui Wang**, Haiou Liao, Zhenzhong Jia, Jing Wu
 
 <!-- **Project** -->
-- This work proposed a semantic mapping framework based on [ORB-SLAM2](https://github.com/raulmur/ORB_SLAM2) for cleaning robots in indoor scenes.
+- This work proposed a semantic mapping framework based on ORB-SLAM2 for cleaning robots in indoor scenes.
 </div>
 </div>
+
 
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ROBIO 2022</div><img src='images/ICMRE.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -55,6 +88,10 @@ Yangtao Ge, Chen Yao, **Zirui Wang**, Haoran Kang, Wentao Zhang, and Jing Wu
 - This work proposed a semantic mapping framework based on [ORB-SLAM2](https://github.com/raulmur/ORB_SLAM2) for cleaning robots in indoor scenes.
 </div>
 </div> -->
+
+<!-- [Semantic Mapping based on Visual SLAM with Object Model Replacement Visualization for Cleaning Robot](https://ieeexplore.ieee.org/document/10011717/), **Zirui Wang**, Haiou Liao, Zhenzhong Jia, Jing Wu, **ROBIO 2023** -->
+
+[Automatic Extrinsic Calibration for Structured Light Camera and Repetive LiDARs](about:blank), Yangtao Ge, Chen Yao, **Zirui Wang**, Haoran Kang, Wentao Zhang and Jing Wu, **ROBOTICA 2024**
 
 [Automatic Extrinsic Calibration for Lidar-Photoneo Camera Using a Hemispherical Calibration Board](https://ieeexplore.ieee.org/document/10106574/), Yangtao Ge, Chen Yao, **Zirui Wang**, Haoran Kang, Wentao Zhang, and Jing Wu, **ICMRE 2023**
 
@@ -72,7 +109,7 @@ Yangtao Ge, Chen Yao, **Zirui Wang**, Haoran Kang, Wentao Zhang, and Jing Wu
 - *2018.09 - 2022.06*,  Bachelor of Science,   Southern University of Science and Technology
   
   <!-- Cumulative GPA: 3.72/4.00,  Rank: 6/72 -->
-- *2015.09 - 2018.06*,  Xiangyang No.4 High School
+<!-- - *2015.09 - 2018.06*,  Xiangyang No.4 High School -->
 
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
@@ -91,7 +128,6 @@ Yangtao Ge, Chen Yao, **Zirui Wang**, Haoran Kang, Wentao Zhang, and Jing Wu
 # 🎮 Others
 - [bilibili](https://space.bilibili.com/12352412)
 - Recently played games: CSGO, Apex, Rainbow Six: Siege, Genshin Impact, Battlefield 2042 ...
-- Sports interest: 🏸 badminton, 🧗‍♂️ rock climbing ...
 
 <!-- - [1.pdf](images/1.pdf)
 - [33.pdf](images/2.pdf) -->
