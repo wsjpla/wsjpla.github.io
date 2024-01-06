@@ -37,8 +37,8 @@ My research interest includes SLAM, sensor fusion, etc.
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"> </div><img src='images/tail.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[TAIL: A Terrain-Aware Multi-Modal SLAM Dataset for Robot Locomotion in Deformable Granular Environments](about:blank), Submitted
-to IEEE Robotics and Automation Letters (RAL) - **Under review**
+TAIL: A Terrain-Aware Multi-Modal SLAM Dataset for Robot Locomotion in Deformable Granular Environments, Submitted
+to IEEE Robotics and Automation Letters (RAL) - **Under review** [[pdf]](about:blank)
 
 Chen Yao\*, Yangtao Ge\*, Guowei Shi\*, **Zirui Wang**\*, Ningbo Yang, Zheng Zhu,Hexiang Wei, Yuntian Zhao, Jing Wu, Zhenzhong Jia
 
@@ -54,7 +54,7 @@ deformable granular scenes.
 
 <!-- PL-LOOP -->
 
-[Robust Appearance-based Loop Closure Detection with Point and Line Features](about:blank), **Under review**
+Robust Appearance-based Loop Closure Detection with Point and Line Features, **Under review** [[pdf]](about:blank)
 
 **Zirui Wang**, Wujie Shi and Jing Wu
 
@@ -68,7 +68,7 @@ deformable granular scenes.
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ROBIO 2022</div><img src='images/robio2022.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Semantic Mapping based on Visual SLAM with Object Model Replacement Visualization for Cleaning Robot](https://ieeexplore.ieee.org/document/10011717/), **ROBIO 2022**
+Semantic Mapping based on Visual SLAM with Object Model Replacement Visualization for Cleaning Robot, **ROBIO 2022** [[pdf]](https://ieeexplore.ieee.org/document/10011717/)
 
 **Zirui Wang**, Haiou Liao, Zhenzhong Jia, Jing Wu
 
@@ -91,11 +91,11 @@ Yangtao Ge, Chen Yao, **Zirui Wang**, Haoran Kang, Wentao Zhang, and Jing Wu
 </div> -->
 
 
-[Automatic Extrinsic Calibration for Structured Light Camera and Repetive LiDARs](about:blank), Yangtao Ge, Chen Yao, **Zirui Wang**, Haoran Kang, Wentao Zhang and Jing Wu, **ROBOTICA 2024**
+Automatic Extrinsic Calibration for Structured Light Camera and Repetive LiDARs, Yangtao Ge, Chen Yao, **Zirui Wang**, Haoran Kang, Wentao Zhang and Jing Wu, **ROBOTICA 2024** [[pdf]](about:blank)
 
-[Automatic Extrinsic Calibration for Lidar-Photoneo Camera Using a Hemispherical Calibration Board](https://ieeexplore.ieee.org/document/10106574/), Yangtao Ge, Chen Yao, **Zirui Wang**, Haoran Kang, Wentao Zhang, and Jing Wu, **ICMRE 2023**
+Automatic Extrinsic Calibration for Lidar-Photoneo Camera Using a Hemispherical Calibration Board, Yangtao Ge, Chen Yao, **Zirui Wang**, Haoran Kang, Wentao Zhang, and Jing Wu, **ICMRE 2023** [[pdf]](https://ieeexplore.ieee.org/document/10106574/)
 
-[Development of BIM Semantic Robot Autonomous Inspection and Simulation System](https://ieeexplore.ieee.org/document/10106602/), Bangzhen Huang, Haiou Liao, Yangtao Ge, Wentao Zhang, Haoran Kang, **Zirui Wang**, Jing Wu, **ICMRE 2023**
+Development of BIM Semantic Robot Autonomous Inspection and Simulation System, Bangzhen Huang, Haiou Liao, Yangtao Ge, Wentao Zhang, Haoran Kang, **Zirui Wang**, Jing Wu, **ICMRE 2023** [[pdf]](https://ieeexplore.ieee.org/document/10106602/)
 
 <!-- # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
