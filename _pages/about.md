@@ -54,14 +54,14 @@ deformable granular scenes.
 
 <!-- PL-LOOP -->
 
-Robust Appearance-based Loop Closure Detection with Point and Line Features, **Under review** [[pdf]](about:blank)
+<!-- Robust Appearance-based Loop Closure Detection with Point and Line Features, **Under review** [[pdf]](about:blank)
 
 **Zirui Wang**, Wujie Shi and Jing Wu
 
 <!-- **Project** -->
 - In this paper, we propose an appearance-based loop closure detection method utilizing both point and line features.
 </div>
-</div>
+</div> -->
 
 <!-- ROBIO -->
 
