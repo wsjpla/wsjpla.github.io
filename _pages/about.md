@@ -48,21 +48,6 @@ deformable granular scenes.
 </div>
 </div>
 
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"> </div><img src='images/pl-loop.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-<!-- PL-LOOP -->
-
-<!-- Robust Appearance-based Loop Closure Detection with Point and Line Features, **Under review** [[pdf]](about:blank)
-
-**Zirui Wang**, Wujie Shi and Jing Wu
-
-<!-- **Project** -->
-- In this paper, we propose an appearance-based loop closure detection method utilizing both point and line features.
-</div>
-</div> -->
-
 <!-- ROBIO -->
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ROBIO 2022</div><img src='images/robio2022.png' alt="sym" width="100%"></div></div>
