@@ -30,20 +30,32 @@ My research interest includes SLAM, sensor fusion, etc.
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
-# 📝 Publications (*equal contribution)
+# 📝 Publications 
+## *equal contribution
 
-<!-- TAIL -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"> </div><img src='images/tail-plus.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Are We Ready for Planetary Exploration Robots? The TAIL-Plus Dataset for SLAM in Granular Environments, ***ICRA 2024 - Workshop on Field Robotics***
+[[pdf]](about:blank)
+
+**Zirui Wang**\*, Chen Yao\*, Yangtao Ge\*, Guowei Shi\*, Ningbo Yang, Zheng Zhu, Kewei Dong, Hexiang Wei, Zhenzhong Jia, Jing Wu
+
+<!-- **Project** -->
+- In this paper we release the TAIL-Plus dataset, a new challenging SLAM dataset for robots in planetary surface analog environments.
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"> </div><img src='images/tail.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-TAIL: A Terrain-Aware Multi-Modal SLAM Dataset for Robot Locomotion in Deformable Granular Environments, **Under review** [[pdf]](about:blank)
+TAIL: A Terrain-Aware Multi-Modal SLAM Dataset for Robot Locomotion in Deformable Granular Environments, ***Under review*** 
+[[preprint]](https://arxiv.org/abs/2403.16875) [[website]](https://tailrobot.github.io/)
 
-Chen Yao\*, Yangtao Ge\*, Guowei Shi\*, **Zirui Wang**\*, Ningbo Yang, Zheng Zhu,Hexiang Wei, Yuntian Zhao, Jing Wu, Zhenzhong Jia
+Chen Yao\*, Yangtao Ge\*, Guowei Shi\*, **Zirui Wang**\*, Ningbo Yang, Zheng Zhu, Hexiang Wei, Yuntian Zhao, Jing Wu, Zhenzhong Jia
 
 <!-- **Project** -->
-- This paper presents TAIL, a novel terrain-aware multi-modal dataset targeting the development of SLAM algorithms using both wheeled and legged robots traveling over
-deformable granular scenes.
+- This paper presents TAIL (Terrain-Aware multI modaL) dataset, targeting the development of mulit-sensor fusion SLAM algorithms using both wheeled and legged robots traveling over deformable granular scenes.
 </div>
 </div>
 
@@ -75,14 +87,14 @@ Yangtao Ge, Chen Yao, **Zirui Wang**, Haoran Kang, Wentao Zhang, and Jing Wu
 </div> -->
 
 
-Automatic Extrinsic Calibration for Structured Light Camera and Repetive LiDARs, Yangtao Ge, Chen Yao, **Zirui Wang**, Haoran Kang, Wentao Zhang and Jing Wu, accepted by **ROBOTICA** 2024 [[pdf]](about:blank)
+Automatic Extrinsic Calibration for Structured Light Camera and Repetive LiDARs, Yangtao Ge, Chen Yao, **Zirui Wang**, Haoran Kang, Wentao Zhang and Jing Wu, ***ROBOTICA*** 2024 [[pdf]](about:blank)
 
 
 
-Development of BIM Semantic Robot Autonomous Inspection and Simulation System, Bangzhen Huang, Haiou Liao, Yangtao Ge, Wentao Zhang, Haoran Kang, **Zirui Wang**, Jing Wu, **ICMRE 2023** [[pdf]](https://ieeexplore.ieee.org/document/10106602/)
+Development of BIM Semantic Robot Autonomous Inspection and Simulation System, Bangzhen Huang, Haiou Liao, Yangtao Ge, Wentao Zhang, Haoran Kang, **Zirui Wang**, Jing Wu, ***ICMRE 2023*** [[pdf]](https://ieeexplore.ieee.org/document/10106602/)
 
 
-Semantic Mapping based on Visual SLAM with Object Model Replacement Visualization for Cleaning Robot, **Zirui Wang**, Haiou Liao, Zhenzhong Jia, Jing Wu, **ROBIO 2022** [[pdf]](https://ieeexplore.ieee.org/document/10011717/)
+Semantic Mapping based on Visual SLAM with Object Model Replacement Visualization for Cleaning Robot, **Zirui Wang**, Haiou Liao, Zhenzhong Jia, Jing Wu, ***ROBIO 2022*** [[pdf]](https://ieeexplore.ieee.org/document/10011717/)
 
 
 <!-- # 🎖 Honors and Awards
@@ -95,20 +107,16 @@ Semantic Mapping based on Visual SLAM with Object Model Replacement Visualizatio
 # 📖 Educations
 - *2022.09 - 2025.06*,  Master of Science,  Southern University of Science and Technology
 - *2018.09 - 2022.06*,  Bachelor of Science,   Southern University of Science and Technology
-  
-  <!-- Cumulative GPA: 3.72/4.00,  Rank: 6/72 -->
-<!-- - *2015.09 - 2018.06*,  Xiangyang No.4 High School -->
+
 
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
 # 💻 Experience
-- *2022*, SLAM-ralated Research Project supported by Shenzhen Silver Star Co. Ltd  
-  - Research topic: semantic SLAM, autonomous navigation
 - *2021*, Rapidamic-SUSTech Undergrad Engineer Research and Innovation Summer School  
   - Research topic: gesture control based on sEMG
-- *2020*, CI-LAM(China-Italy Laboratory on Advanced Manufacturing) Summer School (remote)
+- *2020*, CI-LAM (China-Italy Laboratory on Advanced Manufacturing) Summer School (remote)
 - *2019*, RoboMaster University Championship
 
 # 🎮 Others
