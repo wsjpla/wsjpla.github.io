@@ -36,8 +36,8 @@ My research interest includes SLAM, sensor fusion, etc.
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"> </div><img src='images/tail-plus.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Are We Ready for Planetary Exploration Robots? The TAIL-Plus Dataset for SLAM in Granular Environments, ***ICRA 2024 - Workshop on Field Robotics***
-[[pdf]](about:blank)
+Are We Ready for Planetary Exploration Robots? The TAIL-Plus Dataset for SLAM in Granular Environments, ***ICRA 2024 Workshop on Field Robotics***
+[[pdf]](https://arxiv.org/abs/2404.13600) [[website]](https://tailrobot.github.io/datasets/tail-plus/)
 
 **Zirui Wang**\*, Chen Yao\*, Yangtao Ge\*, Guowei Shi\*, Ningbo Yang, Zheng Zhu, Kewei Dong, Hexiang Wei, Zhenzhong Jia, Jing Wu
 
@@ -49,7 +49,7 @@ Are We Ready for Planetary Exploration Robots? The TAIL-Plus Dataset for SLAM in
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"> </div><img src='images/tail.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-TAIL: A Terrain-Aware Multi-Modal SLAM Dataset for Robot Locomotion in Deformable Granular Environments, ***Under review*** 
+TAIL: A Terrain-Aware Multi-Modal SLAM Dataset for Robot Locomotion in Deformable Granular Environments, ***Accepted to IEEE Robotics and Automation Letters***, 2024
 [[preprint]](https://arxiv.org/abs/2403.16875) [[website]](https://tailrobot.github.io/)
 
 Chen Yao\*, Yangtao Ge\*, Guowei Shi\*, **Zirui Wang**\*, Ningbo Yang, Zheng Zhu, Hexiang Wei, Yuntian Zhao, Jing Wu, Zhenzhong Jia
@@ -87,7 +87,7 @@ Yangtao Ge, Chen Yao, **Zirui Wang**, Haoran Kang, Wentao Zhang, and Jing Wu
 </div> -->
 
 
-Automatic Extrinsic Calibration for Structured Light Camera and Repetive LiDARs, Yangtao Ge, Chen Yao, **Zirui Wang**, Haoran Kang, Wentao Zhang and Jing Wu, ***ROBOTICA*** 2024 [[pdf]](about:blank)
+Automatic Extrinsic Calibration for Structured Light Camera and Repetive LiDARs, Yangtao Ge, Chen Yao, **Zirui Wang**, Haoran Kang, Wentao Zhang and Jing Wu, ***ROBOTICA***, 2024 [[pdf]](about:blank)
 
 
 
