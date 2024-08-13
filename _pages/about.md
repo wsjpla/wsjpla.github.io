@@ -33,6 +33,19 @@ My research interest includes SLAM, sensor fusion, etc.
 # 📝 Publications 
 ## *equal contribution
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"> </div><img src='images/LIEO.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+FAST-LIEO: Fast and Real-time LiDAR-Inertial-Event-Visual Odometry, <br />**Under review**, the code and dataset will be aviliable at [[website]](https://github.com/wsjpla/FAST-LIEO).
+
+**Zirui Wang**, Yangtao Ge, Kewei Dong, Jing Wu
+
+<!-- **Project** -->
+- In this paper we propose FAST-LIEO, a novel LiDAR-inertial-event-visual odometry. Our system supports both LIEO and LIEVO that can tightly fuse LiDAR, IMU, event camera (and standard RGB camera) measurements.
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"> </div><img src='images/tail-plus.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -42,20 +55,20 @@ Are We Ready for Planetary Exploration Robots? The TAIL-Plus Dataset for SLAM in
 **Zirui Wang**\*, Chen Yao\*, Yangtao Ge\*, Guowei Shi\*, Ningbo Yang, Zheng Zhu, Kewei Dong, Hexiang Wei, Zhenzhong Jia, Jing Wu
 
 <!-- **Project** -->
-- In this paper we release the TAIL-Plus dataset, a new challenging SLAM dataset for robots in planetary surface analog environments.
+- In this paper we release the TAIL-Plus dataset, an extension to TAIL dataset for SLAM in planetary surface analog environments.
 </div>
 </div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"> </div><img src='images/tail.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-TAIL: A Terrain-Aware Multi-Modal SLAM Dataset for Robot Locomotion in Deformable Granular Environments, ***Accepted to IEEE Robotics and Automation Letters***, 2024
+TAIL: A Terrain-Aware Multi-Modal SLAM Dataset for Robot Locomotion in Deformable Granular Environments, ***IEEE Robotics and Automation Letters***, 2024
 [[preprint]](https://arxiv.org/abs/2403.16875) [[website]](https://tailrobot.github.io/)
 
 Chen Yao\*, Yangtao Ge\*, Guowei Shi\*, **Zirui Wang**\*, Ningbo Yang, Zheng Zhu, Hexiang Wei, Yuntian Zhao, Jing Wu, Zhenzhong Jia
 
 <!-- **Project** -->
-- This paper presents TAIL (Terrain-Aware multI modaL) dataset, targeting the development of mulit-sensor fusion SLAM algorithms using both wheeled and legged robots traveling over deformable granular scenes.
+- This paper presents TAIL (Terrain-Aware multI modaL) dataset, targeting the development of mulit-sensor fusion SLAM for robots in deformable granular scenes.
 </div>
 </div>
 
