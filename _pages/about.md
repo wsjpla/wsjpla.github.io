@@ -38,7 +38,7 @@ My research interest includes SLAM, sensor fusion, etc.
 
 FAST-LIEO: Fast and Real-time LiDAR-Inertial-Event-Visual Odometry, <br />**Under review**, the code and dataset will be aviliable at [[website]](https://github.com/wsjpla/FAST-LIEO).
 
-**Zirui Wang**, Yangtao Ge, Kewei Dong, Jing Wu
+**Zirui Wang**, Yangtao Ge, Kewei Dong, I-Ming Chen, Jing Wu
 
 <!-- **Project** -->
 - In this paper we propose FAST-LIEO, a novel LiDAR-inertial-event-visual odometry. Our system supports both LIEO and LIEVO that can tightly fuse LiDAR, IMU, event camera (and standard RGB camera) measurements.
@@ -133,8 +133,8 @@ Semantic Mapping based on Visual SLAM with Object Model Replacement Visualizatio
 - *2019*, RoboMaster University Championship
 
 # 🎮 Others
-- [bilibili](https://space.bilibili.com/12352412)
-- Recently played games: CSGO, Apex, Rainbow Six: Siege, Genshin Impact, Battlefield 2042 ...
+- ...
+- ...
 
 <!-- - [1.pdf](images/1.pdf)
 - [33.pdf](images/2.pdf) -->
