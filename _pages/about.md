@@ -136,5 +136,8 @@ Semantic Mapping based on Visual SLAM with Object Model Replacement Visualizatio
 - ...
 - ...
 
+
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=300&t=n&d=vSQCUFrFfNnop8mPnx-6fkSsK9dNzj0njvK7NO7Faa8'></script>
+
 <!-- - [1.pdf](images/1.pdf)
 - [33.pdf](images/2.pdf) -->
