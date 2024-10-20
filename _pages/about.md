@@ -103,10 +103,6 @@ Yangtao Ge, Chen Yao, **Zirui Wang**, Haoran Kang, Wentao Zhang, and Jing Wu
 Automatic Extrinsic Calibration for Structured Light Camera and Repetive LiDARs, Yangtao Ge, Chen Yao, **Zirui Wang**, Haoran Kang, Wentao Zhang and Jing Wu, ***ROBOTICA***, 2024 [[pdf]](about:blank)
 
 
-
-Development of BIM Semantic Robot Autonomous Inspection and Simulation System, Bangzhen Huang, Haiou Liao, Yangtao Ge, Wentao Zhang, Haoran Kang, **Zirui Wang**, Jing Wu, ***ICMRE 2023*** [[pdf]](https://ieeexplore.ieee.org/document/10106602/)
-
-
 Semantic Mapping based on Visual SLAM with Object Model Replacement Visualization for Cleaning Robot, **Zirui Wang**, Haiou Liao, Zhenzhong Jia, Jing Wu, ***ROBIO 2022*** [[pdf]](https://ieeexplore.ieee.org/document/10011717/)
 
 
